@@ -12,7 +12,7 @@ body {
 
 /* Capa principal de la targeta */
 .pokemon-card {
-    background-color: #e0e0e0; /* Gris clar */
+    background-color: #f8f2f2; /* Gris clar */
     border-radius: 16px;       /* Cantonades arrodonides */
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Ombra per profunditat */
     padding: 24px;             /* Marge interior */
